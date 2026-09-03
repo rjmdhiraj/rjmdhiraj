@@ -121,14 +121,15 @@ Event reconciliation system with idempotent processing, deterministic ordering, 
 - Building backend and AI infrastructure projects
 - Contributing to open-source software
 
-📊 GitHub Activity
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rjmdhiraj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Rajat's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmdhiraj&layout=compact&theme=github_dark&hide_border=true" alt="Rajat's most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjmdhiraj&theme=github_dark" alt="Rajat's GitHub activity summary" />
 
 </div>
+
 
 ## 🤝 Let’s Connect
 
