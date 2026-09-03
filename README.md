@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rajat+Malik;Backend+%26+Distributed+Systems+Engineer;Building+AI-powered+software;Always+learning.+Always+building." alt="Hi, I'm Rajat Malik" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rajat+Malik;Full-Stack+%26+Distributed+Systems+Engineer;Building+AI-powered+software;Always+learning.+Always+building." alt="Hi, I'm Rajat Malik" />
 
 <p>
   <a href="https://linkedin.com/in/rjmdhiraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I’m a software engineer focused on backend engineering, distributed systems, cloud infrastructure, observability, and applied AI.
+I’m a software engineer focused on full-stack product development, backend engineering, distributed systems, cloud infrastructure, observability, and applied AI.
 
 I enjoy turning complex ideas into software that is understandable, testable, and dependable in production.
 
@@ -25,6 +25,7 @@ class Rajat {
 public:
     vector<string> focus = {
         "Distributed Systems",
+        "Frontend Development",
         "Backend Engineering",
         "Cloud Infrastructure",
         "Applied AI"
@@ -59,7 +60,7 @@ Autonomous payment-recovery intelligence with deterministic financial guardrails
 
 ### [SignalForge](https://github.com/rjmdhiraj/SignalForge)
 
-Real-time voice AI technical interviewer with adaptive questioning, resume and GitHub context, RBAC, and structured candidate evaluation.
+Real-time voice AI technical interviewer with a polished frontend, adaptive questioning, resume and GitHub context, RBAC, and structured candidate evaluation.
 
 `TypeScript` `React` `Bun` `WebSockets` `PostgreSQL`
 
@@ -109,6 +110,7 @@ Event reconciliation system with idempotent processing, deterministic ordering, 
 | Area | Tools |
 | --- | --- |
 | Languages | C++, Python, TypeScript, JavaScript |
+| Frontend | React, TypeScript, Tailwind CSS, responsive and accessible UI |
 | Backend | Node.js, Express, REST APIs, WebSockets, Prisma |
 | Data | PostgreSQL, MongoDB, Redis |
 | Infrastructure | Docker, Kubernetes, Linux, AWS, GitHub Actions |
@@ -120,7 +122,6 @@ Event reconciliation system with idempotent processing, deterministic ordering, 
 - Practicing system design and reliability engineering
 - Building backend and AI infrastructure projects
 - Contributing to open-source software
-
 
 ## 📊 GitHub Activity
 
