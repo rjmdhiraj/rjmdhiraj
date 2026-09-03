@@ -1,133 +1,90 @@
-<!-- Animated Header -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rajat+Malik;Software+Engineer;Distributed+Systems+%7C+Backend+%7C+Cloud;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rajat+Malik;Backend+%26+Distributed+Systems+Engineer;Building+AI-powered+software;Always+Learning.+Always+Building." alt="Hi, I'm Rajat Malik" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rjmdhiraj&style=for-the-badge&color=0e75b6"/>
+  <a href="https://linkedin.com/in/rjmdhiraj">LinkedIn</a> ·
+  <a href="https://rajat-dev-delta.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/rjmdhiraj">GitHub</a>
 </p>
-
----
 
 # 👋 About Me
+
+I’m a software engineer focused on building reliable backend systems, distributed architectures, and AI-powered products.
+
+My interests include:
+
+- Distributed systems and event-driven architecture
+- Backend engineering and API design
+- Cloud infrastructure and observability
+- AI agents, evaluation systems, and intelligent automation
 
 ```cpp
 class Rajat {
 public:
-    string interests =
-        "Distributed Systems | Backend | Cloud | AI";
+    vector<string> focus = {
+        "Distributed Systems",
+        "Backend Engineering",
+        "Cloud Infrastructure",
+        "Applied AI"
+    };
 
     vector<string> languages = {
         "C++",
-        "Swift",
         "Python",
-        "Go"
+        "TypeScript",
+        "JavaScript"
     };
 
     string currently =
-        "Building scalable software and solving complex problems.";
+        "Building reliable systems that solve real problems.";
 };
 ```
 
----
+# 🚀 Selected Work
 
-# 🛠 Tech Stack
+| Project | What it does |
+| --- | --- |
+| [RecoverX](https://github.com/rjmdhiraj/recoverx) | Autonomous payment-recovery platform with deterministic financial guardrails, idempotent execution, and audit logging. |
+| [SignalForge](https://github.com/rjmdhiraj/SignalForge) | Real-time voice AI technical interviewer with adaptive questioning and structured candidate evaluation. |
+| [microinsight](https://github.com/rjmdhiraj/microinsight) | AI-powered observability and root-cause analysis for microservice architectures. |
+| [interview-reconciliation](https://github.com/rjmdhiraj/interview-reconciliation) | Event reconciliation system with idempotent processing, deterministic ordering, conflict resolution, and state replay. |
+| [AuraMail](https://github.com/rjmdhiraj/auramail) | Voice-based email system designed to improve accessibility for visually impaired users. |
 
-<p align="center">
+# 🛠️ Technical Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,swift,python,go,docker,kubernetes,git,linux,mongodb,postgres,react,nodejs,aws"/>
+**Languages:** C++, Python, TypeScript, JavaScript
 
-</p>
+**Backend:** Node.js, Express, REST APIs, WebSockets, Prisma
 
----
+**Data:** PostgreSQL, MongoDB, Redis
 
-# 📈 GitHub Stats
+**Infrastructure:** Docker, Kubernetes, Linux, AWS, GitHub Actions
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rjmdhiraj&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmdhiraj&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
+**AI:** LLM applications, AI agents, speech interfaces, RAG, and evaluation pipelines
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rjmdhiraj&theme=github-dark&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,docker,kubernetes,git,linux,mongodb,postgres,react,nodejs,aws" alt="Technical stack" />
 </p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rjmdhiraj&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rjmdhiraj&theme=algolia&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
-# 💻 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/rjmdhiraj?theme=dark&font=Nunito"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-⭐ AI Root Cause Analysis for Microservices
-
-⭐ SignalForge — AI Technical Interview Platform
-
-⭐ SaaS Churn Analytics
-
-⭐ Aura Mails
-
-⭐ Data Structures & Algorithms
-
-⭐ System Design Notes
-
----
 
 # 🌱 Currently
 
-- Learning advanced Distributed Systems
+- Deepening my knowledge of distributed systems
+- Practicing system design and scalability
+- Building backend and AI infrastructure projects
+- Contributing to open-source software
 
-- Practicing System Design
+# 📊 GitHub Activity
 
-- Solving DSA daily
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rjmdhiraj&show_icons=true&theme=github_dark&hide_border=true" alt="Rajat's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmdhiraj&layout=compact&theme=github_dark&hide_border=true" alt="Rajat's most used languages" />
+</p>
 
-- Building backend projects
+# 🤝 Let’s Connect
 
----
+- [LinkedIn](https://linkedin.com/in/rjmdhiraj)
+- [Portfolio](https://rajat-dev-delta.vercel.app)
+- [GitHub](https://github.com/rjmdhiraj)
 
-# 📫 Connect
-
-LinkedIn
-
-LeetCode
-
-Email
-
-Portfolio (Coming Soon)
+If you find one of my projects useful, consider starring it, trying it locally, or opening an issue with feedback.
