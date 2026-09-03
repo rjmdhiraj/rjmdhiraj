@@ -1,23 +1,24 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rajat+Malik;Backend+%26+Distributed+Systems+Engineer;Building+AI-powered+software;Always+Learning.+Always+Building." alt="Hi, I'm Rajat Malik" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rajat+Malik;Backend+%26+Distributed+Systems+Engineer;Building+AI-powered+software;Always+learning.+Always+building." alt="Hi, I'm Rajat Malik" />
+
+<p>
+  <a href="https://linkedin.com/in/rjmdhiraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://rajat-dev-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/rjmdhiraj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rjmdhiraj">LinkedIn</a> ·
-  <a href="https://rajat-dev-delta.vercel.app">Portfolio</a> ·
-  <a href="https://github.com/rjmdhiraj">GitHub</a>
-</p>
+<p><em>I design and build reliable systems for real-world problems.</em></p>
 
-# 👋 About Me
+</div>
 
-I’m a software engineer focused on building reliable backend systems, distributed architectures, and AI-powered products.
+---
 
-My interests include:
+## 👋 About Me
 
-- Distributed systems and event-driven architecture
-- Backend engineering and API design
-- Cloud infrastructure and observability
-- AI agents, evaluation systems, and intelligent automation
+I’m a software engineer focused on backend engineering, distributed systems, cloud infrastructure, observability, and applied AI.
+
+I enjoy turning complex ideas into software that is understandable, testable, and dependable in production.
 
 ```cpp
 class Rajat {
@@ -41,50 +42,100 @@ public:
 };
 ```
 
-# 🚀 Selected Work
+## 🚀 Featured Projects
 
-| Project | What it does |
-| --- | --- |
-| [RecoverX](https://github.com/rjmdhiraj/recoverx) | Autonomous payment-recovery platform with deterministic financial guardrails, idempotent execution, and audit logging. |
-| [SignalForge](https://github.com/rjmdhiraj/SignalForge) | Real-time voice AI technical interviewer with adaptive questioning and structured candidate evaluation. |
-| [microinsight](https://github.com/rjmdhiraj/microinsight) | AI-powered observability and root-cause analysis for microservice architectures. |
-| [interview-reconciliation](https://github.com/rjmdhiraj/interview-reconciliation) | Event reconciliation system with idempotent processing, deterministic ordering, conflict resolution, and state replay. |
-| [AuraMail](https://github.com/rjmdhiraj/auramail) | Voice-based email system designed to improve accessibility for visually impaired users. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🛠️ Technical Stack
+### [RecoverX](https://github.com/rjmdhiraj/recoverx)
 
-**Languages:** C++, Python, TypeScript, JavaScript
+Autonomous payment-recovery intelligence with deterministic financial guardrails, idempotent execution, policy enforcement, and audit logging.
 
-**Backend:** Node.js, Express, REST APIs, WebSockets, Prisma
+`TypeScript` `Python` `PostgreSQL` `AI` `Distributed Systems`
 
-**Data:** PostgreSQL, MongoDB, Redis
+</td>
+<td width="50%" valign="top">
 
-**Infrastructure:** Docker, Kubernetes, Linux, AWS, GitHub Actions
+### [SignalForge](https://github.com/rjmdhiraj/SignalForge)
 
-**AI:** LLM applications, AI agents, speech interfaces, RAG, and evaluation pipelines
+Real-time voice AI technical interviewer with adaptive questioning, resume and GitHub context, RBAC, and structured candidate evaluation.
+
+`TypeScript` `React` `Bun` `WebSockets` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [microinsight](https://github.com/rjmdhiraj/microinsight)
+
+AI-powered observability and root-cause analysis platform for detecting anomalies and diagnosing failures across microservices.
+
+`TypeScript` `Microservices` `Observability` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+### [interview-reconciliation](https://github.com/rjmdhiraj/interview-reconciliation)
+
+Event reconciliation system with idempotent processing, deterministic ordering, conflict resolution, and state replay.
+
+`JavaScript` `Node.js` `PostgreSQL` `Prisma`
+
+</td>
+</tr>
+</table>
+
+## 🧠 Engineering Principles
+
+<table>
+<tr>
+<td>🔒 <strong>Safety first</strong><br />Critical actions require explicit policy and validation.</td>
+<td>♻️ <strong>Idempotent by design</strong><br />Retries should be safe and predictable.</td>
+</tr>
+<tr>
+<td>📈 <strong>Observable systems</strong><br />Important behavior should be measurable and diagnosable.</td>
+<td>🧪 <strong>Proof over promises</strong><br />Benchmarks, tests, and reproducible demos matter.</td>
+</tr>
+</table>
+
+## 🛠️ Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,docker,kubernetes,git,linux,mongodb,postgres,react,nodejs,aws" alt="Technical stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,nodejs,react,postgres,mongodb,redis,docker,kubernetes,linux,git,aws" alt="C++, Python, TypeScript, JavaScript, Node.js, React, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Linux, Git, AWS" />
 </p>
 
-# 🌱 Currently
+| Area | Tools |
+| --- | --- |
+| Languages | C++, Python, TypeScript, JavaScript |
+| Backend | Node.js, Express, REST APIs, WebSockets, Prisma |
+| Data | PostgreSQL, MongoDB, Redis |
+| Infrastructure | Docker, Kubernetes, Linux, AWS, GitHub Actions |
+| AI | LLM applications, AI agents, RAG, speech interfaces, evaluation pipelines |
 
-- Deepening my knowledge of distributed systems
-- Practicing system design and scalability
+## 🌱 Currently
+
+- Deepening my knowledge of distributed systems and scalability
+- Practicing system design and reliability engineering
 - Building backend and AI infrastructure projects
 - Contributing to open-source software
 
-# 📊 GitHub Activity
+📊 GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rjmdhiraj&show_icons=true&theme=github_dark&hide_border=true" alt="Rajat's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmdhiraj&layout=compact&theme=github_dark&hide_border=true" alt="Rajat's most used languages" />
-</p>
+<div align="center">
 
-# 🤝 Let’s Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rjmdhiraj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Rajat's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmdhiraj&layout=compact&theme=github_dark&hide_border=true" alt="Rajat's most used languages" />
+
+</div>
+
+## 🤝 Let’s Connect
+
+I’m interested in backend engineering, distributed systems, AI infrastructure, and open-source collaboration.
 
 - [LinkedIn](https://linkedin.com/in/rjmdhiraj)
 - [Portfolio](https://rajat-dev-delta.vercel.app)
 - [GitHub](https://github.com/rjmdhiraj)
 
-If you find one of my projects useful, consider starring it, trying it locally, or opening an issue with feedback.
+If one of my projects is useful, consider starring it, trying it locally, or opening an issue with feedback.
